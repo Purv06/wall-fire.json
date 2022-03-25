@@ -54,5 +54,19 @@
       "name": "wall 8",
       "thumbnail": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113226_986.PNG",
       "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "IMG_20220225_113233_049.PNG",
+      "name": "wall 1",
+      "thumbnail": "IMG_20220225_113233_049.PNG",
+      "collections": "Festival"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113234_320.PNG",
+      "name": "wall 2",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/Wallfire.json/main/IMG_20220225_113234_320.PNG",
+      "collections": "Floral"
     }
 ]
